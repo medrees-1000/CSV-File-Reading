@@ -4,3 +4,8 @@ bin/
 .metadata/ 
 .project 
 .classpath
+target/ 
+.settings/ 
+.project 
+.classpath 
+bin/

@@ -16,7 +16,7 @@ public class T1_ReadFile {
 	 * Developer: Mohammad, Bahar
 	 */
 
-	static String fileName = "C:\\Users\\idree\\Desktop\\Downloads\\Energy-CST3650.csv";
+	static String fileName = "src/test/resources/Energy-CST3650.csv";;
 	
 	@Test void t0() {
 		
